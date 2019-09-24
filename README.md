@@ -1,6 +1,6 @@
 # Spektrometer_GUI
 GUI für das Infrarotspektrometer Experiment
-Für die Analyse wird eine modifizierte Version von https://github.com/tonbut/RPiSpectrometer verwendet.
+Für die Analyse wird eine modifizierte Version von https://github.com/tonbut/RPiSpectrometer (MIT LICENSE) verwendet.
 
 Bedienungsanleitung:
 1. Spektrometer via USB mit dem entsprechenden Computer verbinden und ca. 45 Sekunden warten bis der Raspberry Pi betriebsbereit ist.
